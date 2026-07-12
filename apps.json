@@ -1,0 +1,30 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.cobalt.youtube.adfree",
+      "title": "YouTube Cobalt AdFree",
+      "description": "YouTube Cobalt AdFree",
+      "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/icon.png",
+      "manifest": {
+        "id": "com.cobalt.youtube.adfree",
+        "version": "1.1.7",
+        "type": "native",
+        "title": "YouTube Cobalt AdFree",
+        "appDescription": "YouTube Cobalt AdFree",
+        "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/icon.png",
+        "sourceUrl": "https://github.com/R-Teer/WebOS-Repo",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/com.cobalt.youtube.adfree_1.0.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "1e7bb33ff3c0cc7f475101a713dcc82e0494a56bfa5e8885ff1381fee4232bd7"
+        }
+      }
+    }
+  ]
+}
