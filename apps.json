@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 1,
+    "count": 2,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 2
   },
   "packages": [
     {
@@ -23,6 +23,26 @@
         "ipkUrl": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/com.cobalt.youtube.adfree_1.0.0_arm.ipk",
         "ipkHash": {
           "sha256": "1e7bb33ff3c0cc7f475101a713dcc82e0494a56bfa5e8885ff1381fee4232bd7"
+        }
+      }
+    },
+    {
+      "id": "org.homebrew.chiaki",
+      "title": "Chiaki-lg",
+      "description": "PlayStation Remote Play (PS4 / PS5)",
+      "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/chiaki_icon.png",
+      "manifest": {
+        "id": "org.homebrew.chiaki",
+        "version": "0.1.2",
+        "type": "native",
+        "title": "Chiaki-lg",
+        "appDescription": "PlayStation Remote Play (PS4 / PS5)",
+        "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/chiaki_icon.png",
+        "sourceUrl": "https://github.com/R-Teer/WebOS-Repo",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/org.homebrew.chiaki_0.1.2_arm.ipk",
+        "ipkHash": {
+          "sha256": "a495b24bb2627a0c77a38c7e1018f5c3ae1f8b6196208a158983fa5eaf339a4f"
         }
       }
     }
