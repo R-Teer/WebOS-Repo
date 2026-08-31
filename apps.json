@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 2,
+    "count": 3,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 3
   },
   "packages": [
     {
@@ -43,6 +43,26 @@
         "ipkUrl": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/org.homebrew.chiaki_0.1.2_arm.ipk",
         "ipkHash": {
           "sha256": "a495b24bb2627a0c77a38c7e1018f5c3ae1f8b6196208a158983fa5eaf339a4f"
+        }
+      }
+    },
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube Leanback v4",
+      "description": "YouTube Leanback for LG WebOS",
+      "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/icon.png",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "2.0.0",
+        "type": "native",
+        "title": "YouTube Leanback v4",
+        "appDescription": "YouTube Leanback for LG WebOS",
+        "iconUri": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/assets/icon.png",
+        "sourceUrl": "https://github.com/R-Teer/WebOS-Repo",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/R-Teer/WebOS-Repo/main/youtube.leanback.v4_2.0.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "7ddedc0ca2815a6ed06a043b8fa6fc0b419c8ade2e148c8e887f2ccb3486f911"
         }
       }
     }
